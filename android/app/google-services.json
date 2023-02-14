@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "187903973530",
+    "project_id": "radditcopy",
+    "storage_bucket": "radditcopy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187903973530:android:5d070ebfeaca420e2b6723",
+        "android_client_info": {
+          "package_name": "com.example.raddit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187903973530-8gg4gn3v7sav35r2r33tg6klt5mi22e6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.raddit",
+            "certificate_hash": "677f098bcf6ec9d4483239a26e66c78a1956a194"
+          }
+        },
+        {
+          "client_id": "187903973530-2ic5ogr88u8eil2t5jb85hdcin6dncga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUFAYc5yyeWeRD-UGlB52xNXCCNn_5IeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187903973530-2ic5ogr88u8eil2t5jb85hdcin6dncga.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "187903973530-hd8q7ln7mjj40it2346iaao0iht875no.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.raddit"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
